@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EstefaniaMarloz
 - 👀 I’m interested in web technologies
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on web projects
 
 <!---
