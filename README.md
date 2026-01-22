@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EstefaniaMarloz ✨
-- 👀 I’m interested in web technologies
+- 👀 I’m interested in backend / web technologies.
 - 🌱 I'm constantly practicing Java and JavaScript.
-- 📱 I'm learning Swift.
-- 💞️ I’m looking to collaborate on web projects
+- 💞️ I’m looking to collaborate on web projects.
